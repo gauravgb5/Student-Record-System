@@ -38,3 +38,8 @@ A MySQL database named "student"
 A MySQL user with the username "root" and password "user" (You can modify the database credentials in the code)
 
 
+### MySQL Setup
+1. Open a MySQL client (e.g., MySQL Workbench or the MySQL command-line client).
+
+2. To list all databases, run the following command:
+   
