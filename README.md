@@ -77,5 +77,6 @@ A MySQL user with the username "root" and password "user" (You can modify the da
 
 8. Now you have the "student" database and the "students" table ready to use with your Java application.
 
+## Installation
 
 
