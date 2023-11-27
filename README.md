@@ -79,19 +79,16 @@ A MySQL user with the username "root" and password "user" (You can modify the da
 
 ## Installation
 
-1. Clone the repository:
 
-git clone https://github.com/yourusername/StudentManagementSystem.git
+1. Open the project in your preferred Java IDE (e.g., VS Code, IntelliJ IDEA, or Eclipse).
 
-2. Open the project in your preferred Java IDE (e.g., VS Code, IntelliJ IDEA, or Eclipse).
-
-3. Configure your MySQL database settings in the code:
+2. Configure your MySQL database settings in the code:
 
    private static final String DB_URL = "jdbc:mysql://localhost:3306/student";
    private static final String DB_USER = "root";
    private static final String DB_PASSWORD = "user";
 
-4. Run the application.
+3. Run the application.
 
 ## Usage
 
