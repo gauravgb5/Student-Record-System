@@ -43,3 +43,4 @@ A MySQL user with the username "root" and password "user" (You can modify the da
 
 2. To list all databases, run the following command:
    
+SHOW DATABASES;
