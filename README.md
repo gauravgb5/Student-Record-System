@@ -111,3 +111,11 @@ A MySQL user with the username "root" and password "user" (You can modify the da
 Feel free to contribute to this project by creating pull requests or reporting issues on GitHub.
 
 Feel free to customize the README file to include additional information, screenshots, or instructions as needed. You can then push the README file to your GitHub repository to provide documentation for your project.
+
+![Screenshot 22-11-2023 174322](https://github.com/gauravgb5/Student-Record-System/assets/152051855/8db902e3-e7f0-4bf4-a4a4-46e38adabbf1)
+
+![Screenshot 22-11-2023 174331](https://github.com/gauravgb5/Student-Record-System/assets/152051855/d1fdb4bc-1aea-4110-a041-f3bece739b1e)
+
+![Screenshot 22-11-2023 174516](https://github.com/gauravgb5/Student-Record-System/assets/152051855/923b70c8-1522-4a50-b505-c4105f55d4c2)
+
+![Screenshot 22-11-2023 174629](https://github.com/gauravgb5/Student-Record-System/assets/152051855/ab244007-a565-482c-834b-20cab35a197a)
